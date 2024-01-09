@@ -1,4 +1,4 @@
-﻿Loyalty Number,Country,Province,City,Postal Code,Gender,Education,Salary,Marital Status,Loyalty Card,CLV,Enrollment Type,Enrollment Year,Enrollment Month,Cancellation Year,Cancellation Month
+﻿Loyalty_Number,Country,Province,City,Postal_Code,Gender,Education,Salary,Marital_Status,Loyalty_Card,CLV,Enrollment_Type,Enrollment_Year,Enrollment_Month,Cancellation_Year,Cancellation_Month
 480934,Canada,Ontario,Toronto,M2Z 4K1,Female,Bachelor,83236,Married,Star,3839.14,Standard,2016,2,,
 549612,Canada,Alberta,Edmonton,T3G 6Y6,Male,College,,Divorced,Star,3839.61,Standard,2016,3,,
 429460,Canada,British Columbia,Vancouver,V6E 3D9,Male,College,,Single,Star,3839.75,Standard,2014,7,2018,1
